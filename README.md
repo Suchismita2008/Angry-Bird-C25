@@ -1,1 +1,2 @@
-# Angry-Bird-C25
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
